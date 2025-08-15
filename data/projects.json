@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "Built with HTML, CSS; responsive and performance-optimized.",
+
+    "liveUrl": "#",
+    "codeUrl": "#"
+  },
+  {
+    "id": 2,
+    "title": "Car Rental Website",
+    "description": "Built with HTML, CSS, JavaScript; booking functionality, authentication, responsive UI.",
+    "liveUrl": "#",
+    "codeUrl": "#"
+  }
+]
